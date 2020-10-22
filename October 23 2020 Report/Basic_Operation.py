@@ -2,7 +2,7 @@ print("Hello")
 print("Hello")
 
 x = 5
-print(x +2)
+print(x + 2)
 print(x - 2)
 print(x * 2)
 print(x / 2)
@@ -28,7 +28,7 @@ print(my_string)
 print(my_string.upper())
 print(my_string.lower())
 print(my_string.count("t"))
-print(my_string.strip()) # remove the preceding spaces
+print(my_string.strip())  # remove the preceding spaces
 print(my_string.replace("n", "ner"))
 print(my_string.index("T"))
 

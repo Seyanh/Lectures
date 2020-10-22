@@ -59,4 +59,3 @@ print('Second method: Number: %2.1f and string: %s' % (24.12, 1231.123))
 print("{0:0.3f} VS ${1:<10s}$".format(a, s))
 print("{0:2.2f} VS ${1:>10s}$".format(a, s))
 print("{0:5.5f} VS ${1:^10s}$".format(a, s)) ## Question: Where is '8'?
-
