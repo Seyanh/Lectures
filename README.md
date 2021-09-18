@@ -1,5 +1,4 @@
-# Open-Source-Tool-Lecture
+# Lectures
 
-The personal report code for the lecture of Open Source Tool.
+The personal report code for the lectures.
 
-Tips: Part of the code in the Final Project will be sorted out in the future.
